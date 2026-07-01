@@ -1,3 +1,3 @@
-# supabase/policies
+# RLS Policies
 
-Estrutura inicial do WinstarCRM.
+Todas as políticas serão adicionadas por módulo.
