@@ -1,0 +1,1 @@
+alter table commissions enable row level security;

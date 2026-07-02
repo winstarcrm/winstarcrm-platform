@@ -1,0 +1,1 @@
+create index idx_commissions_tenant on commissions(tenant_id);
