@@ -1,0 +1,1 @@
+create index idx_sales_tenant on sales(tenant_id);
